@@ -3,9 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\RegistrationRequest;
-use App\Models\User;
-use App\Models\UserAccess;
-use App\Services\LinkService;
 use App\Services\UserService;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\View\View;

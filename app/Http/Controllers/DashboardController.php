@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Models\UserAccess;
 use App\Services\GameService;
-use App\Services\LinkService;
 use App\Services\UserService;
 use App\UseCases\Game;
 use Illuminate\Http\RedirectResponse;
